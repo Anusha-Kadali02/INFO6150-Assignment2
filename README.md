@@ -63,6 +63,14 @@ For this assignment I have created my portfolio website.
 # Responsiveness
 <ol>
    <li><ul>
+      <li>Small</li>
+      <li><img width="414" height="896" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/d8a91808-3185-49d3-87a5-c0247f3bb616"></li>
+   </ul></li>
+   <li><ul>
+      <li>Medium</li>
+      <li><img width="820" height="1180" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/d145d95e-6576-495f-8da6-ae74d35f6dbd"></li>
+   </ul></li>
+   <li><ul>
       <li>Large</li>
       <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/a1b4ab65-de8c-4eee-9cd2-54c3f3852346"></li>
    </ul></li>
