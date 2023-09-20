@@ -60,5 +60,13 @@ For this assignment I have created my portfolio website.
 # Tech stacks used
 <img width="40%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment1/assets/144817794/e984008b-5523-4bb1-b5c0-b79eb389df9f">
 
+# Responsiveness
+<ol>
+   <li><ul>
+      <li>Large</li>
+      <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/a1b4ab65-de8c-4eee-9cd2-54c3f3852346"></li>
+   </ul></li>
+</ol>
+
 
 
