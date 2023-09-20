@@ -25,7 +25,7 @@ For this assignment I have created my portfolio website.
   <li>Anchor</li>
   <ul>
     <li>This tag been used to link one section to another.</li>
-    <li><img width="100%" height="300" src="!https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/426f4ac4-d663-467b-b512-234e96082d17"></li>
+    <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/426f4ac4-d663-467b-b512-234e96082d17"></li>
   </ul>
   <li>Img</li>
   <ul>
@@ -35,17 +35,17 @@ For this assignment I have created my portfolio website.
   <li>Footer</li>
   <ul>
     <li>Footer tag has been used to create the footer</li>
-    <li><img width="100%" height="300" src="!https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/62a91374-d20c-48b0-8ebb-690494dd4150"></li>
+    <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/62a91374-d20c-48b0-8ebb-690494dd4150"></li>
   </ul>
   <li>Table</li>
   <ul>
     <li>This tag has been used to create a table which contains the skill matrix.</li>
-    <li><img width="100%" height="300" src="!https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/f3f03a2e-d59b-4d20-917f-940b60aaa703"></li>
+    <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/f3f03a2e-d59b-4d20-917f-940b60aaa703"></li>
   </ul>
   <li>audio,video</li>
   <ul>
     <li>These tags have been used to show the positioning statement.</li>
-    <li><img width="100%" height="300" src="!https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/d44ceb1d-7d11-450c-b051-3169c0cc3646"></li>
+    <li><img width="100%" height="300" src="https://github.com/Anusha-Kadali02/INFO6150-Assignment2/assets/144817794/d44ceb1d-7d11-450c-b051-3169c0cc3646"></li>
   </ul>
   <li>form,button,mailto,tel</li>
   <ul>
